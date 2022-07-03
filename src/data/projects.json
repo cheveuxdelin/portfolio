@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Tapispotify",
+        "tecnologies": [
+            "React",
+            "Express",
+            "MUI",
+            "Git"
+        ],
+        "start_date": "Oct 2021",
+        "end_date": "Dec 2021",
+        "description": [
+            "Developed a Web app using Spotify’s API for data analysis and visualization",
+            "Used ExpressJS to connect to Spotify’s API and fetch user’s listening data",
+            "Designed a Mobile-first React user Interface for the application using Material-UI",
+            "Using C3.js developed data visualization charts for user listening habits analytics"
+        ]
+    },
+    {
+        "name": "Familiar Faces Recognition",
+        "tecnologies": [
+            "Python",
+            "OpenCV",
+            "Docker",
+            "Git"
+        ],
+        "start_date": "Aug 2020",
+        "end_date": "Dec 2020",
+        "description": [
+            "Developed Python application that detects previously saved faces for Authorization control",
+            "Used OpenCV as a framework for fast delivery and tested reliability",
+            "Implemented continous delivery and long-term support for the project using Git versions",
+            "Developed File server for saving familiar faces saved through Camera/file input"
+        ]
+    },
+    {
+        "name": "Traffic Light Simulator",
+        "tecnologies": [
+            "Python",
+            "AgentPy",
+            "Flask",
+            "C#",
+            "Unity",
+            "Docker",
+            "Git"
+        ],
+        "start_date": "Aug 2021",
+        "end_date": "Feb 2022",
+        "description": [
+            "For IBM, developed real-time traffic light simulator using Python and Unity",
+            "Used Unity to display models on a simulation that interact on a grid with fetched positions",
+            "Developed backend using flask that connects to the Python simulation, and sends data to Unity",
+            "Created container for deployment in servers with Docker"
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Languages",
+        "items": [
+            "Python",
+            "C++",
+            "C",
+            "HTML/CSS",
+            "Javascript/Node.js",
+            "Go",
+            "Kotlin",
+            "SQL"
+        ]
+    },
+    {
+        "type": "Frameworks",
+        "items": [
+            "React/React Native",
+            "ExpressJS",
+            "Flask",
+            "Django",
+            "WordPress",
+            "Material-UI",
+            "Gin"
+        ]
+    },
+    {
+        "type": "Developer Tools",
+        "items": [
+            "Git",
+            "Docker",
+            "Google Cloud Platform/Firebase",
+            "AWS",
+            "Android Studio"
+        ]
+    },
+    {
+        "type": "Libraries",
+        "items": [
+            "pandas",
+            "NumPy",
+            "Matplotlib",
+            "Tensorflow",
+            "Keras",
+            "OpenCV",
+            "AgentPy"
+        ]
+    },
+    {
+        "type": "Spoken Languages",
+        "items": [
+            "English (Native)",
+            "Spanish (Native)",
+            "French(B1)"
+        ]
+    }
+]

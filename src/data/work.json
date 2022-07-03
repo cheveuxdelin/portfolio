@@ -1,0 +1,49 @@
+[
+    {
+        "position": "Production Engineer",
+        "company_name": "Major League Hacking",
+        "start_date": "Jun 2022",
+        "end_date": "Aug 2022",
+        "location": "Virtual",
+        "description": [
+            "Internship program that focuses on the collaboration of open source projects",
+            "The team and project will be set soon"
+        ]
+    },
+    {
+        "position": "Cloud Software Developer",
+        "company_name": "Blue People",
+        "start_date": "Apr 2022",
+        "end_date": "Current",
+        "location": "Monterrey, MX",
+        "description": [
+            "Developed Full-Stack applications on a microservice architecture using AWS technologies",
+            "Took part on requirement analysis and specifications alongside costumers",
+            "Maintained long term support for clients on deployed cloud applications, offering support and monitoring"
+        ]
+    },
+    {
+        "position": "Freelance Software Engineer",
+        "company_name": "Tarsee",
+        "start_date": "Oct 2021",
+        "end_date": "Apr 2022",
+        "location": "Zapopan, MX",
+        "description": [
+            "Developed software applications using Go, Node, React for clients on a freelance contract",
+            "Communicate with costumers to define requirements and set deliveries for the projecters",
+            "Maintained long term support for clients on developed applications"
+        ]
+    },
+    {
+        "position": "Software Engineer",
+        "company_name": "Centrident",
+        "start_date": "Oct 2020",
+        "end_date": "Sept 2021",
+        "location": "Cajeme, MX",
+        "description": [
+            "Developed a REST API using Django and MySQL to store and manage customer data",
+            "Developed a full-stack Web landing page using Node.JS and React for client attraction",
+            "Developed a system’s administration Web App using Go and MySQL for management and scheduling of clients"
+        ]
+    }
+]
