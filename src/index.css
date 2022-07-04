@@ -5,7 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #020;
+  background-color: #A6A6EA;
+}
+
+h1 {
+  color: white;
 }
 
 code {
@@ -21,12 +25,18 @@ a {
   color: white;
 }
 
-footer, header {
+footer,
+header {
   align-items: center;
   justify-content: center;
 }
 
-footer > a, header > a {
+footer>a,
+header>a {
   margin: 0 15px;
-  text-decoration: none ;
+  text-decoration: none;
+}
+
+main {
+  min-height: calc(100vh - 200px);
 }
